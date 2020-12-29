@@ -1,0 +1,104 @@
+Patient Number,Gender,Age,Left sided paralysis ,Right sided paralysis,Unable to speak ,Unconsciousness ,Deviation of Mouth,Slurring of Speech,Increased Number of Urination,Increased Thirst and Dry Mouth,Increased Hunger,Weight Loss,Mood Change, Apathy,Irritability,Lethargy, Fatigue ,Weakness,Blurring of Vision,Delay in Wound Healing,Nausea,Predilection to sweet food,Blood Sugar Level,Asymptomatic/  Diagnosed on Routine Checkup,Headache,Nosebleed,Pounding in Neck/ Chest,Difficulty in Breathing ,Palpitation/ Fatigue,Family History of HTN,BMI,Generalized Body Ache,Generalized Weakness,Severe Hedache,Swelling Over Multiple Body Parts,Vertigo,Fever,Cough,Gum Bleeding,Abdominal Pain,Output ,Suggested Doctor
+1,Male,52,1,0,1,0,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,Stroke,Neurologist
+2,Male,55,0,1,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,Stroke,Neurologist
+3,Male,95,1,0,1,1,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,Stroke,Neurologist
+4,Male,55,1,0,1,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,Stroke,Neurologist
+5,Male,56,0,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,Stroke,Neurologist
+6,Male,60,1,0,0,0,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,Stroke,Neurologist
+7,Male,70,1,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,Stroke,Neurologist
+8,Male,60,1,0,0,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,Stroke,Neurologist
+9,Female,59,1,0,1,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,Stroke,Neurologist
+10,Female,54,0,1,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,Stroke,Neurologist
+11,Female,66,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,Stroke,Neurologist
+12,Female,57,0,1,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,Stroke,Neurologist
+13,Female,62,1,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,Stroke,Neurologist
+14,Female,67,0,1,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,Stroke,Neurologist
+15,Female,58,0,1,1,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,Stroke,Neurologist
+16,Female,73,0,1,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,Stroke,Neurologist
+17,Female,51,1,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,Stroke,Neurologist
+18,Female,65,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,Stroke,Neurologist
+19,Female,53,0,1,0,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,Stroke,Neurologist
+20,Female,57,1,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,Stroke,Neurologist
+21,Female,78,1,0,1,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,Stroke,Neurologist
+22,Female,63,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,Stroke,Neurologist
+23,Female,49,0,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,Stroke,Neurologist
+24,Female,61,0,1,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,Stroke,Neurologist
+25,Male,54,1,0,1,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,Stroke,Neurologist
+26,Male,67,0,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,Stroke,Neurologist
+27,Male,56,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,Stroke,Neurologist
+28,Male,76,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,Stroke,Neurologist
+29,Male,73,0,1,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,Stroke,Neurologist
+30,Male,57,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,Stroke,Neurologist
+31,Male,67,0,1,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,Stroke,Neurologist
+32,Male,64,1,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,Stroke,Neurologist
+33,Female,50,0,0,0,0,0,0,1,1,0,1,0,0,0,1,1,1,0,0,1,0,8.5,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,Diabetes,Endocrinologist
+34,Female,45,0,0,0,0,0,0,0,1,1,0,1,1,1,0,0,0,0,1,0,1,24.6,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,Diabetes,Endocrinologist
+35,Male,48,0,0,0,0,0,0,1,0,1,0,1,1,1,0,0,0,0,1,0,1,16.3,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,Diabetes,Endocrinologist
+36,Male,56,0,0,0,0,0,0,0,0,0,1,0,0,0,1,1,1,1,0,1,0,6.9,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,Diabetes,Endocrinologist
+37,Male,60,0,0,0,0,0,0,1,1,0,0,0,0,0,1,1,1,1,0,0,0,7.2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,Diabetes,Endocrinologist
+38,Male,53,0,0,0,0,0,0,1,0,1,1,0,0,0,1,1,1,0,1,0,0,9.2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,Diabetes,Endocrinologist
+39,Female,47,0,0,0,0,0,0,0,1,1,0,1,1,1,1,1,1,0,0,1,1,19.5,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,Diabetes,Endocrinologist
+40,Female,70,0,0,0,0,0,0,1,1,0,1,0,0,0,1,1,1,1,1,0,0,10.2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,Diabetes,Endocrinologist
+41,Male,64,0,0,0,0,0,0,1,0,1,1,0,0,0,0,0,0,1,0,0,1,19.7,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,Diabetes,Endocrinologist
+42,Male,52,0,0,0,0,0,0,1,1,1,0,1,1,1,0,0,0,1,0,0,1,22.4,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,Diabetes,Endocrinologist
+43,Female,38,0,0,0,0,0,0,0,1,1,0,0,0,0,1,1,1,0,1,1,1,26.6,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,Diabetes,Endocrinologist
+44,Male,72,0,0,0,0,0,0,1,1,0,1,0,0,0,1,1,1,1,1,0,0,10.4,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,Diabetes,Endocrinologist
+45,Male,49,0,0,0,0,0,0,0,0,0,0,1,1,1,0,0,0,1,1,1,1,19.5,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,Diabetes,Endocrinologist
+46,Female,46,0,0,0,0,0,0,0,1,0,1,0,0,0,1,1,1,0,0,1,0,9.3,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,Diabetes,Endocrinologist
+47,Female,40,0,0,0,0,0,0,0,1,1,0,1,1,1,0,0,0,1,1,0,1,18.6,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,Diabetes,Endocrinologist
+48,Male,64,0,0,0,0,0,0,0,1,0,1,0,0,0,1,1,1,1,1,0,1,21.8,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,Diabetes,Endocrinologist
+49,Male,51,0,0,0,0,0,0,1,1,0,1,1,1,1,0,0,0,0,1,0,0,9.6,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,Diabetes,Endocrinologist
+50,Male,70,0,0,0,0,0,0,1,1,0,1,0,0,0,1,1,1,1,1,0,0,10.6,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,Diabetes,Endocrinologist
+51,Female,35,0,0,0,0,0,0,0,1,1,1,1,1,1,1,1,1,0,0,1,1,24.4,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,Diabetes,Endocrinologist
+52,Male,49,0,0,0,0,0,0,0,0,1,1,1,1,1,0,0,0,0,1,0,1,25,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,Diabetes,Endocrinologist
+53,Female,32,0,0,0,0,0,0,1,1,0,1,1,1,1,0,0,0,1,0,0,0,10,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,Diabetes,Endocrinologist
+54,Female,35,0,0,0,0,0,0,0,1,1,1,0,0,0,1,1,1,0,0,0,0,11.2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,Diabetes,Endocrinologist
+55,Male,60,0,0,0,0,0,0,1,0,0,1,0,0,0,1,1,1,0,0,0,1,27.2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,Diabetes,Endocrinologist
+56,Male,29,0,0,0,0,0,0,1,1,0,1,0,0,0,1,1,1,0,1,0,0,9.5,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,Diabetes,Endocrinologist
+57,Male,56,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,1,0,1,1,26.7,0,0,0,0,0,0,0,0,0,Hypertension,Internal Medicine/ Cardiologist
+58,Male,36,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,1,28,0,0,0,0,0,0,0,0,0,Hypertension,Internal Medicine/ Cardiologist
+59,Female,30,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,1,1,0,1,27.5,0,0,0,0,0,0,0,0,0,Hypertension,Internal Medicine/ Cardiologist
+60,Female,59,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1,22,0,0,0,0,0,0,0,0,0,Hypertension,Internal Medicine/ Cardiologist
+61,Female,40,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1,1,0,0,0,28.5,0,0,0,0,0,0,0,0,0,Hypertension,Internal Medicine/ Cardiologist
+62,Female,49,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1,1,0,19.4,0,0,0,0,0,0,0,0,0,Hypertension,Internal Medicine/ Cardiologist
+63,Male,60,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,1,0,0,18,0,0,0,0,0,0,0,0,0,Hypertension,Internal Medicine/ Cardiologist
+64,Male,51,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,1,26,0,0,0,0,0,0,0,0,0,Hypertension,Internal Medicine/ Cardiologist
+65,Male,45,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,1,25.5,0,0,0,0,0,0,0,0,0,Hypertension,Internal Medicine/ Cardiologist
+66,Female,42,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1,0,1,1,17.5,0,0,0,0,0,0,0,0,0,Hypertension,Internal Medicine/ Cardiologist
+67,Female,30,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1,0,0,1,18,0,0,0,0,0,0,0,0,0,Hypertension,Internal Medicine/ Cardiologist
+68,Male,45,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1,1,0,19,0,0,0,0,0,0,0,0,0,Hypertension,Internal Medicine/ Cardiologist
+69,Female,32,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,1,25.5,0,0,0,0,0,0,0,0,0,Hypertension,Internal Medicine/ Cardiologist
+70,Male,50,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1,1,1,28,0,0,0,0,0,0,0,0,0,Hypertension,Internal Medicine/ Cardiologist
+71,Male,70,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1,1,0,0,17.5,0,0,0,0,0,0,0,0,0,Hypertension,Internal Medicine/ Cardiologist
+72,Female,38,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,18,0,0,0,0,0,0,0,0,0,Hypertension,Internal Medicine/ Cardiologist
+73,Male,71,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1,1,0,0,1,20,0,0,0,0,0,0,0,0,0,Hypertension,Internal Medicine/ Cardiologist
+74,Female,42,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,18.1,0,0,0,0,0,0,0,0,0,Hypertension,Internal Medicine/ Cardiologist
+75,Female,61,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1,0,0,0,0,26,0,0,0,0,0,0,0,0,0,Hypertension,Internal Medicine/ Cardiologist
+76,Female,75,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1,0,27,0,0,0,0,0,0,0,0,0,Hypertension,Internal Medicine/ Cardiologist
+77,Female,72,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,1,18.5,0,0,0,0,0,0,0,0,0,Hypertension,Internal Medicine/ Cardiologist
+78,Female,57,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1,1,0,19,0,0,0,0,0,0,0,0,0,Hypertension,Internal Medicine/ Cardiologist
+79,Female,43,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,1,21,0,0,0,0,0,0,0,0,0,Hypertension,Internal Medicine/ Cardiologist
+80,Male,58,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,22.3,0,0,0,0,0,0,0,0,0,Hypertension,Internal Medicine/ Cardiologist
+81,Male,70,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,1,1,20.5,0,0,0,0,0,0,0,0,0,Hypertension,Internal Medicine/ Cardiologist
+82,Male,33,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,1,21.5,0,0,0,0,0,0,0,0,0,Hypertension,Internal Medicine/ Cardiologist
+83,Female,37,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1,1,0,0,1,28,0,0,0,0,0,0,0,0,0,Hypertension,Internal Medicine/ Cardiologist
+84,Male,50,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,1,30,0,0,0,0,0,0,0,0,0,Hypertension,Internal Medicine/ Cardiologist
+85,Male,64,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,19,0,0,0,0,0,0,0,0,0,Hypertension,Internal Medicine/ Cardiologist
+86,Female,45,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,1,18.6,0,0,0,0,0,0,0,0,0,Hypertension,Internal Medicine/ Cardiologist
+87,Male,53,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,1,0,19.9,0,0,0,0,0,0,0,0,0,Hypertension,Internal Medicine/ Cardiologist
+88,Male,25,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,1,23,0,0,0,0,0,0,0,0,0,Hypertension,Internal Medicine/ Cardiologist
+89,Male,44,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1,0,1,0,1,30,0,0,0,0,0,0,0,0,0,Hypertension,Internal Medicine/ Cardiologist
+90,Male,73,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,1,22.5,0,0,0,0,0,0,0,0,0,Hypertension,Internal Medicine/ Cardiologist
+91,Female,29,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,21.3,0,0,0,0,0,0,0,0,0,Hypertension,Internal Medicine/ Cardiologist
+92,Female,39,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1,1,0,1,1,28.2,0,0,0,0,0,0,0,0,0,Hypertension,Internal Medicine/ Cardiologist
+93,Female,48,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,1,18,0,0,0,0,0,0,0,0,0,Hypertension,Internal Medicine/ Cardiologist
+94,Male,57,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,1,27.6,0,0,0,0,0,0,0,0,0,Hypertension,Internal Medicine/ Cardiologist
+95,Male,69,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1,1,0,18.5,0,0,0,0,0,0,0,0,0,Hypertension,Internal Medicine/ Cardiologist
+96,Female,29,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,1,28,0,0,0,0,0,0,0,0,0,Hypertension,Internal Medicine/ Cardiologist
+97,Male,20,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1,0,0,0,0,0,0,0,Blood Cancer,Oncologist
+98,Male,60,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1,1,0,0,0,0,0,0,Blood Cancer,Oncologist
+99,Male,60,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,1,1,1,0,0,0,Blood Cancer,Oncologist
+100,Female,50,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,1,1,0,0,Blood Cancer,Oncologist
+101,Female,21,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1,0,0,0,1,1,0,0,Blood Cancer,Oncologist
+102,Female,32,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1,0,0,1,0,1,1,Blood Cancer,Oncologist
+103,Female,30,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1,0,0,0,1,0,0,0,Blood Cancer,Oncologist
